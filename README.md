@@ -1,4 +1,4 @@
-# speed_practice_projects
+# Collection of Coding Speed Practice Projects
 This repository holds a collection of small programs I developed in
 order to drill rapid development. My goal for each project is to develop
 a working program in a compressed timeframe (e.g. 30 minutes), then stop.
