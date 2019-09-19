@@ -3,7 +3,7 @@ This is a small console minesweeper game. It generates a 9x9 grid with
 2 mines. User inputs coordinates of individual cells to check.
 
 <p align="center">
-	<img src="resources/console_minesweeper_1.png">
+	<img src="../resources/console_minesweeper_1.png">
 </p>
 
 The goal was to develop this quickly. I would normally have implemented
