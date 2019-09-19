@@ -53,6 +53,7 @@ be a primary concern.
 # Projects Breakdown
 ## Console Change Calculator
 [Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/change_calculator)
+
 A simple tool for calculating the optimal assortment of coins when making
 change.
 <p align="center">
@@ -61,6 +62,7 @@ change.
 
 ## Pi Calculator
 [Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/pi_calculator)
+
 A tool for calculating pi to a specified number of decimal places using
 [Nilakantha series](https://en.wikipedia.org/wiki/Pi#Infinite_series)
 expansion.
@@ -70,6 +72,7 @@ expansion.
 
 ## Console Minesweeper Game
 [Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/console_minesweeper)
+
 A simple console based minesweeper game.
 <p align="center">
 	<img src="resources/console_minesweeper_2.png">
@@ -77,6 +80,7 @@ A simple console based minesweeper game.
 
 ## Console Rock Paper Scissors Game
 [Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/console_rock_paper_scissors)
+
 A simple console based rock paper scissors game.
 <p align="center">
 	<img src="resources/console_rock_paper_scissors_1.png">
