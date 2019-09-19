@@ -74,3 +74,10 @@ A simple console based minesweeper game.
 <p align="center">
 	<img src="resources/console_minesweeper_2.png">
 </p>
+
+## Console Rock Paper Scissors Game
+[Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/console_rock_paper_scissors)
+A simple console based rock paper scissors game.
+<p align="center">
+	<img src="../resources/console_rock_paper_scissors_1.png">
+</p>
