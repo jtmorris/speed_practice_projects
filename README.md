@@ -58,3 +58,19 @@ change.
 <p align="center">
 	<img src="resources/change_calculator_1.png">
 </p>
+
+## Pi Calculator
+[Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/pi_calculator)
+A tool for calculating pi to a specified number of decimal places using
+[Nilakantha series](https://en.wikipedia.org/wiki/Pi#Infinite_series)
+expansion.
+<p align="center">
+	<img src="resources/pi_calculator_1.png">
+</p>
+
+## Console Minesweeper Game
+[Directory Link](https://github.com/jtmorris/speed_practice_projects/tree/master/console_minesweeper)
+A simple console based minesweeper game.
+<p align="center">
+	<img src="resources/console_minesweeper_2.png">
+</p>
